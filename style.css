@@ -5,9 +5,11 @@ header {
 }
 
 header h1 {
-    color: aqua;
-    font-size: 20px;
+    color: rgb(0, 34, 255);
+    font-size: 25px;
     font-weight: bold;
+    text-shadow: 2.5px 0px #f56708;
+    text-transform: uppercase;
 }
 
 section ul li {
@@ -16,13 +18,13 @@ section ul li {
 }
 
 section ul li a {
-    color: #000;
+    color: #b6049b;
     font-size: 15px;
     font-weight: bold;
-    line-height: 45px;
+    line-height: 35px;
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(31, 244, 7);
+    color: rgb(229, 151, 6);
 }
