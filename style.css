@@ -1,0 +1,28 @@
+header {
+    /* background-color: aliceblue; */
+    padding: 25px 15px;
+    margin: 0;
+}
+
+header h1 {
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+section ul li {
+    display: grid;
+    /* background-color: rgb(189, 189, 246); */
+}
+
+section ul li a {
+    color: #000;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 45px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: antiquewhite;
+}
